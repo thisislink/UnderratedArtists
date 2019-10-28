@@ -6,7 +6,9 @@
   "dependencies": {
     "ejs": "^2.7.1",
     "express": "^4.17.1",
-    "nodemon": "^1.19.4"
+    "node-fetch": "^2.6.0",
+    "nodemon": "^1.19.4",
+    "spotify-web-api-node": "^4.0.0"
   },
   "devDependencies": {},
   "scripts": {
